@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
 .responsive-cell-block {
   min-height: 75px;
 }
@@ -389,4 +390,8 @@ body {
   .wk-mobile-12 {
     width: 100%;
   }
+}
+
+.main-title {
+  font-family: "Fredoka One", cursive;
 }
